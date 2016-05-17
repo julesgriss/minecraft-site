@@ -39,7 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">g5jules.duckdns.org</div>
-                <p>IP Address: 45.55.53.76</p>
+                <h2>45.55.53.76</h2>
             </div>
         </div>
     </body>
